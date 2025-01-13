@@ -7,9 +7,9 @@ let pesan = args.join` `
 let oi = `📄 *MENSAJE:* ${pesan}`
 let teks = `╭━〔 *EY LES HABLAN ACA EL ÚNICO BOT SOY YO* 〕━⬣\n${oi}\n\n`
 for (let mem of participants) {
-teks += `┃👑⊹ @${mem.id.split('@')[0]}\n`}
+teks += `┃🥷⊹ @${mem.id.split('@')[0]}\n`}
 teks += `┃
-╰━━━━━[ 𝗞𝗔𝗢𝗭-𝘽𝙤𝙩 ]━━━━━⬣`
+╰━━━━━[ 𝗧𝗜𝗟𝗜𝗡 𝗕𝗢𝗧 ]━━━━━⬣`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )  
 }
 handler.command = /^(tagall|niñas|invocar|invocacion|todos|invocación)$/i
