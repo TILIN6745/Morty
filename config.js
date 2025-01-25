@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5218336105471", 'Tilin', true], //el tilin
-["5218336105471", 'gay', true], //es gay
+["5217202699304", 'Tilin', true], //el tilin
+["5217202699304", 'gay', true], //es gay
 ["5218336105471"]]
 
-global.mods = ["5218336105471"]
-global.prems = ["5218336105471"]
+global.mods = ["5217202699304"]
+global.prems = ["5217202699304"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
-global.author = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
+global.packname = "𝗠𝗢𝗥𝗧𝗬 𝗕𝗢𝗧"
+global.author = "𝗠𝗢𝗥𝗧𝗬 𝗕𝗢𝗧"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
+global.gt = "𝗠𝗢𝗥𝗧𝗬 𝗕𝗢𝗧"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,9 +157,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
-global.igfg = "𝗧𝗜𝗟𝗜𝗡-𝗕𝗢𝗧"
-global.nomorown = "5218336105471"
+global.wm = "𝗠𝗢𝗥𝗧𝗬 𝗕𝗢𝗧"
+global.igfg = "𝗠𝗢𝗥𝗧𝗬 𝗕𝗢𝗧"
+global.nomorown = "5217202699304"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
